@@ -129,8 +129,10 @@ if ((file.exists('Data/populations/sct_dz_pop.xlsx'))) {
 
 m_to_17 <- sapply(0:17, function(i){paste0('M', i)})
 f_to_17 <- sapply(0:17, function(i){paste0('F', i)})
-m_wa <- sapply(18:64, function(i){paste0('M', i)})
-f_wa <- sapply(18:64, function(i){paste0('F', i)})
+m_wa_1834 <- sapply(18:34, function(i){paste0('M', i)})
+f_wa_1834 <- sapply(18:34, function(i){paste0('F', i)})
+m_wa_3564 <- sapply(35:64, function(i){paste0('M', i)})
+f_wa_3564 <- sapply(35:64, function(i){paste0('F', i)})
 m_65plus <- sapply(65:90, function(i){paste0('M', i)})
 f_65plus <- sapply(65:90, function(i){paste0('F', i)})
 
@@ -139,8 +141,10 @@ engwal_pop <- read_excel('Data/populations/eng_wales_lsoa_pop.xlsx',
   pivot_longer(5:187, names_to = 'cat', values_to = 'value') %>%
   mutate(agg_cat = case_when(cat %in% m_to_17 ~ 'm_to_17', 
                              cat %in% f_to_17 ~ 'f_to_17', 
-                             cat %in% m_wa ~ 'm_wa', 
-                             cat %in% f_wa ~ 'f_wa', 
+                             cat %in% m_wa_1834 ~ 'm_wa_1834', 
+                             cat %in% f_wa_1834 ~ 'f_wa_1834', 
+                             cat %in% m_wa_3564 ~ 'm_wa_3564', 
+                             cat %in% f_wa_3564 ~ 'f_wa_3564',
                              cat %in% m_65plus ~ 'm_65plus',
                              cat %in% f_65plus ~ 'f_65plus',
                              cat == 'Total' ~ 'Total')) %>%
@@ -148,7 +152,9 @@ engwal_pop <- read_excel('Data/populations/eng_wales_lsoa_pop.xlsx',
   summarise(value = sum(value)) %>%
   pivot_wider(names_from = agg_cat, values_from = value) %>%
   mutate(to_17 = m_to_17 + f_to_17,
-         wa_18_to_64 = m_wa + f_wa,
+         wa_18_to_64 = m_wa_1834 + f_wa_1834 + m_wa_3564 + f_wa_3564,
+         wa_1834 = m_wa_1834 + f_wa_1834,
+         wa_3564 = m_wa_3564 + f_wa_3564,
          over_65 = m_65plus + f_65plus, 
          perc_to_17 = to_17/Total,
          perc_wa = wa_18_to_64/Total,
@@ -238,7 +244,7 @@ if ((file.exists('Data/IMD/ENG_IMD_transformed_scores.xlsx'))) {
 
 # Import English IMD
 eng_IMD <- read_csv('https://assets.publishing.service.gov.uk/media/691ded56d140bbbaa59a2a7d/File_7_IoD2025_All_Ranks_Scores_Deciles_Population_Denominators.csv') %>%
-  select(LSOA_code = 1, IMD_Country_Decile = 1)
+  select(LSOA_code = 1, IMD_Country_Decile = 7)
 
 # Create df of domain weights (incl alternative weights for no income, no health IMD) in line with MHCLG methodology
 IMD_domain_weights <- data.frame(domain = c('Income', 'Employment', 'Education', 'Health', 'Crime', 'Barriers', 'Environment'),

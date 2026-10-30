@@ -8,7 +8,7 @@ if (exists('SETUP_RUN')) { print(SETUP_RUN)
 ## 02. QOF variables
 
 # Here we download a set of data form the Quality and Outcomes Framework dataset from NHS England, which records a wide set of metrics for 
-# GP practices in England. We import six variables from QOF - prevalence of athma, COPD, depression, mental health and rheumatoid arthritis
+# GP practices in England. We import six variables from QOF - prevalence of asthma, COPD, depression, mental health and rheumatoid arthritis
 # among the practice's patient population (which we're interested in as outcomes of FP), and registered smokers among the patient population
 # (which we're interested in as a control variable)
 
