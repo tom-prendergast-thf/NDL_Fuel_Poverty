@@ -1,0 +1,474 @@
+﻿table,code,code_description
+respiratory_hes,A48.1,Legionnaires disease
+respiratory_hes,J12,"Viral pneumonia, not elsewhere classified"
+respiratory_hes,J12.0,Adenoviral pneumonia
+respiratory_hes,J12.1,Respiratory syncytial virus pneumonia
+respiratory_hes,J12.2,Parainfluenza virus pneumonia
+respiratory_hes,J12.3,Human metapneumovirus pneumonia
+respiratory_hes,J12.8,Other viral pneumonia
+respiratory_hes,J12.9,"Viral pneumonia, unspecified"
+respiratory_hes,J13,Pneumonia due to Streptococcus pneumoniae
+respiratory_hes,J14,Pneumonia due to Haemophilus influenzae
+respiratory_hes,J15,"Bacterial pneumonia, not elsewhere classified"
+respiratory_hes,J15.0,Pneumonia due to Klebsiella pneumoniae
+respiratory_hes,J15.1,Pneumonia due to Pseudomonas
+respiratory_hes,J15.2,Pneumonia due to staphylococcus
+respiratory_hes,J15.3,"Pneumonia due to streptococcus, group B"
+respiratory_hes,J15.4,Pneumonia due to other streptococci
+respiratory_hes,J15.5,Pneumonia due to Escherichia coli
+respiratory_hes,J15.6,Pneumonia due to other aerobic Gram-negative bacteria
+respiratory_hes,J15.7,Pneumonia due to Mycoplasma pneumoniae
+respiratory_hes,J15.8,Other bacterial pneumonia
+respiratory_hes,J15.9,"Bacterial pneumonia, unspecified"
+respiratory_hes,J16,"Pneumonia due to other infectious organisms, not elsewhere classified"
+respiratory_hes,J16.0,Chlamydial pneumonia
+respiratory_hes,J16.8,Pneumonia due to other specified infectious organisms
+respiratory_hes,J17,Pneumonia in diseases classified elsewhere
+respiratory_hes,J17.0,Pneumonia in bacterial diseases classified elsewhere
+respiratory_hes,J17.1,Pneumonia in viral diseases classified elsewhere
+respiratory_hes,J17.2,Pneumonia in mycoses
+respiratory_hes,J17.3,Pneumonia in parasitic diseases
+respiratory_hes,J17.8,Pneumonia in other diseases classified elsewhere
+respiratory_hes,J18,"Pneumonia, organism unspecified"
+respiratory_hes,J18.0,"Bronchopneumonia, unspecified"
+respiratory_hes,J18.1,"Lobar pneumonia, unspecified"
+respiratory_hes,J18.2,"Hypostatic pneumonia, unspecified"
+respiratory_hes,J18.8,"Other pneumonia, organism unspecified"
+respiratory_hes,J18.9,"Pneumonia, unspecified"
+respiratory_hes,J20,Acute bronchitis
+respiratory_hes,J20.0,Acute bronchitis due to Mycoplasma pneumoniae
+respiratory_hes,J20.1,Acute bronchitis due to Haemophilus influenzae
+respiratory_hes,J20.2,Acute bronchitis due to streptococcus
+respiratory_hes,J20.3,Acute bronchitis due to coxsackievirus
+respiratory_hes,J20.4,Acute bronchitis due to parainfluenza virus
+respiratory_hes,J20.5,Acute bronchitis due to respiratory syncytial virus
+respiratory_hes,J20.6,Acute bronchitis due to rhinovirus
+respiratory_hes,J20.7,Acute bronchitis due to echovirus
+respiratory_hes,J20.8,Acute bronchitis due to other specified organisms
+respiratory_hes,J20.9,"Acute bronchitis, unspecified"
+respiratory_hes,J21,Acute bronchiolitis
+respiratory_hes,J21.0,Acute bronchiolitis due to respiratory syncytial virus
+respiratory_hes,J21.1,Acute bronchiolitis due to human metapneumovirus
+respiratory_hes,J21.8,Acute bronchiolitis due to other specified organisms
+respiratory_hes,J21.9,"Acute bronchiolitis, unspecified"
+respiratory_hes,J22,Unspecified acute lower respiratory infection
+respiratory_hes,J40,"Bronchitis, not specified as acute or chronic"
+respiratory_hes,J44.0,Chronic obstructive pulmonary disease with acute lower respiratory infection
+respiratory_hes,J44.1,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"
+respiratory_hes,J85,Abscess of lung and mediastinum
+respiratory_hes,J85.0,Gangrene and necrosis of lung
+respiratory_hes,J85.1,Abscess of lung with pneumonia
+respiratory_hes,J85.2,Abscess of lung without pneumonia
+respiratory_hes,J85.3,Abscess of mediastinum
+respiratory_hes,J86,Pyothorax
+respiratory_hes,J86.0,Pyothorax with fistula
+respiratory_hes,J86.9,Pyothorax without fistula
+mentalhealth_hes,F932,Social anxiety disorder of childhood
+mentalhealth_hes,F931,Phobic anxiety disorder of childhood
+mentalhealth_hes,F93,Emotional disorders with onset specific to childhood
+mentalhealth_hes,F92,Mixed disorders or conduct and emotions
+mentalhealth_hes,F919,Unsocialized conduct disorder
+mentalhealth_hes,F919,"Conduct disorder, unspecified"
+mentalhealth_hes,F918,Other conduct disorder
+mentalhealth_hes,F913,Oppositional defiant disorder
+mentalhealth_hes,F912,Socialised conduct disorder
+mentalhealth_hes,F910,Conduct disorder confined to the family context
+mentalhealth_hes,F91,Conduct disorder
+mentalhealth_hes,F90,Hyperkinetic disorders
+mentalhealth_hes,F62,"Enduring personality changes, not attributable to brain damage and disease"
+mentalhealth_hes,F600,Paranoid personality disorder
+mentalhealth_hes,F60,Specific personality disorders
+mentalhealth_hes,F54,Psychological and behavioural factors associated with disorders or diseases classified elsewhere
+mentalhealth_hes,F531,"Severe mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+mentalhealth_hes,F530,"Mild mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+mentalhealth_hes,F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+mentalhealth_hes,F519,"Nonorganic sleep disorder, unspecified"
+mentalhealth_hes,F518,Other nonorganic sleep disorders
+mentalhealth_hes,F516,NightmaresÂ  Â 
+mentalhealth_hes,F514,Sleep terrors
+mentalhealth_hes,F512,Nonorganic disorder of the sleep-wake schedule
+mentalhealth_hes,F511,Nonorganic hypersomnia
+mentalhealth_hes,F510,Nonorganic insomnia
+mentalhealth_hes,F51,Nonorganic sleep disorders
+mentalhealth_hes,F509,"Eating disorder, unspecified"
+mentalhealth_hes,F508,Other eating disorders
+mentalhealth_hes,F505,Vomiting associated with other psychological disturbances
+mentalhealth_hes,F504,Overeating associated with other psychological disturbances
+mentalhealth_hes,F503,Atypical bulimia nervosa
+mentalhealth_hes,F502,Bulimia nervosa
+mentalhealth_hes,F501,Atypical anorexia nervosa
+mentalhealth_hes,F500,Anorexia nervosa
+mentalhealth_hes,F50,Eating disorders
+mentalhealth_hes,F481,Depersonalization-derealization syndrome
+mentalhealth_hes,F459,"Somatoform disorder, unspecified"
+mentalhealth_hes,F454,Persistent somatoform pain disorder
+mentalhealth_hes,F453,Somatoform autonomic dysfunction
+mentalhealth_hes,F452,Hypochondriacal disorder
+mentalhealth_hes,F451,Undifferentiated somatoform disorder
+mentalhealth_hes,F450,Somatization disorder
+mentalhealth_hes,F45,Somatoform disorders
+mentalhealth_hes,F449,"Dissociative [conversion] disorder, unspecified"
+mentalhealth_hes,F448,Other dissociative [conversion] disorders
+mentalhealth_hes,F447,Mixed dissociative [conversion] disorders
+mentalhealth_hes,F446,Dissociative anaesthesia and sensory loss
+mentalhealth_hes,F445,Dissociative convulsions
+mentalhealth_hes,F444,Dissociative motor disorders
+mentalhealth_hes,F443,Trance and possession disorders
+mentalhealth_hes,F442,Dissociative stupor
+mentalhealth_hes,F441,Dissociative fugue
+mentalhealth_hes,F440,Dissociative amnesia
+mentalhealth_hes,F44,Dissociative [conversion] disorders
+mentalhealth_hes,F439,"Reaction to severe stress, unspecified"
+mentalhealth_hes,F438,Other reactions to severe stress
+mentalhealth_hes,F432,Adjustment disorders
+mentalhealth_hes,F431,Post-traumatic stress disorder
+mentalhealth_hes,F430,Acute stress reaction
+mentalhealth_hes,F43,"Reaction to severe stress, and adjustment disorders"
+mentalhealth_hes,F429,"Obsessive-compulsive disorder, unspecified"
+mentalhealth_hes,F428,Other obsessive-compulsive disorders
+mentalhealth_hes,F422,Mixed obsessional thoughts and acts
+mentalhealth_hes,F421,Predominantly compulsive acts [obsessional rituals]
+mentalhealth_hes,F420,Predominantly obsessional thoughts or ruminations
+mentalhealth_hes,F42,Obsessive-compulsive disorder
+mentalhealth_hes,F419,"Anxiety disorder, unspecified"
+mentalhealth_hes,F418,Other specified anxiety disorders
+mentalhealth_hes,F413,Other mixed anxiety disorders
+mentalhealth_hes,F412,Mixed anxiety and depressive disorder
+mentalhealth_hes,F411,Generalized anxiety disorder
+mentalhealth_hes,F410,Panic disorder [episodic paroxysmal anxiety]
+mentalhealth_hes,F41,Other anxiety disorders
+mentalhealth_hes,F409,Phobic anxiety disorder
+mentalhealth_hes,F408,Other phobic anxiety disorders
+mentalhealth_hes,F402,Specific (isolated) phobias
+mentalhealth_hes,F401,Social phobias
+mentalhealth_hes,F400,Agoraphobia
+mentalhealth_hes,F40,Phobic anxiety disorders
+mentalhealth_hes,F39,Unspecified mood [affective] disorder
+mentalhealth_hes,F388,Other specified mood [affective] disorders
+mentalhealth_hes,F381,Other recurrent mood [affective] disorders
+mentalhealth_hes,F380,Other single mood [affective] disorders
+mentalhealth_hes,F38,Other mood [affective] disorders
+mentalhealth_hes,F341,Dysthymia
+mentalhealth_hes,F340,Cyclothymia
+mentalhealth_hes,F34,Persistent mood [affective] disorders
+mentalhealth_hes,F339,"Recurrent depressive disorder, unspecified"
+mentalhealth_hes,F338,Other recurrent depressive disorders
+mentalhealth_hes,F334,"Recurrent depressive disorder, currently in remission"
+mentalhealth_hes,F333,"Recurrent depressive disorder, current episode severe with psychotic symptoms"
+mentalhealth_hes,F332,"Recurrent depressive disorder, current episode severe without psychotic symptoms"
+mentalhealth_hes,F331,"Recurrent depressive disorder, current episode moderate"
+mentalhealth_hes,F330,"Recurrent depressive disorder, current episode mild"
+mentalhealth_hes,F33,Recurrent depressive disorder
+mentalhealth_hes,F329,"Depressive episode, unspecified"
+mentalhealth_hes,F328,Other depressive episodes
+mentalhealth_hes,F323,Severe depressive episode with psychotic symptoms
+mentalhealth_hes,F322,Severe depressive episode without psychotic symptoms
+mentalhealth_hes,F321,Moderate depressive episode
+mentalhealth_hes,F320,Mild depressive episode
+mentalhealth_hes,F32,Depressive episode
+mentalhealth_hes,F319,"Bipolar affective disorder, unspecified"
+mentalhealth_hes,F318,Other bipolar affective disorders
+mentalhealth_hes,F317,"Bipolar affective disorder, currently in remission"
+mentalhealth_hes,F316,"Bipolar affective disorder, current episode mixed"
+mentalhealth_hes,F315,"Bipolar affective disorder, current episode severe depression with psychotic symptoms"
+mentalhealth_hes,F314,"Bipolar affective disorder, current episode severe depression without psychotic symptoms"
+mentalhealth_hes,F313,"Bipolar affective disorder, current episode mild or moderate depression"
+mentalhealth_hes,F312,"Bipolar affective disorder, current episode manic with psychotic symptoms"
+mentalhealth_hes,F311,"Bipolar affective disorder, current episode manic without psychotic symptoms"
+mentalhealth_hes,F310,"Bipolar affective disorder, current episode hypomanic"
+mentalhealth_hes,F31,Bipolar affective disorder
+mentalhealth_hes,F309,"Manic episode, unspecified"
+mentalhealth_hes,F308,Other manic episodes
+mentalhealth_hes,F302,Mania with psychotic symptoms
+mentalhealth_hes,F301,Mania without psychotic symptoms
+mentalhealth_hes,F300,Hypomania
+mentalhealth_hes,F30,Manic episode
+mentalhealth_hes,F29,Unspecified nonorganic psychosis
+mentalhealth_hes,F28,Other nonorganic psychotic disorders
+mentalhealth_hes,F259,"Schizoaffective disorder, unspecified"
+mentalhealth_hes,F258,Other schizoaffective disorders
+mentalhealth_hes,F252,"Schizoaffective disorder, mixed type"
+mentalhealth_hes,F251,"Schizoaffective disorder, depressive type"
+mentalhealth_hes,F250,"Schizoaffective disorder, manic type"
+mentalhealth_hes,F25,Schizoaffective disorders
+mentalhealth_hes,F24,Induced delusional disorder
+mentalhealth_hes,F239,"Acute and transient psychotic disorder, unspecified"
+mentalhealth_hes,F238,Other acute and transient psychotic disorders
+mentalhealth_hes,F233,Other acute predominantly delusional psychotic disorders
+mentalhealth_hes,F232,Acute schizophrenia-like psychotic disorder
+mentalhealth_hes,F231,Acute polymorphic psychotic disorder with symptoms of schizophrenia
+mentalhealth_hes,F230,Acute polymorphic psychotic disorder without symptoms of schizophrenia
+mentalhealth_hes,F23,Acute and transient psychotic disorders
+mentalhealth_hes,F229,"Persistent delusional disorder, unspecified"
+mentalhealth_hes,F228,Other persistent delusional disorders
+mentalhealth_hes,F220,Delusional disorder
+mentalhealth_hes,F22,Persistent delusional disorders
+mentalhealth_hes,F21,Schizotypal disorder
+mentalhealth_hes,F209,"Schizophrenia, unspecified"
+mentalhealth_hes,F208,Other schizophrenia
+mentalhealth_hes,F206,Simple schizophrenia
+mentalhealth_hes,F205,Residual schizophrenia
+mentalhealth_hes,F204,Post-schizophrenic depression
+mentalhealth_hes,F203,Undifferentiated schizophrenia
+mentalhealth_hes,F202,Catatonic schizophrenia
+mentalhealth_hes,F201,Hebephrenic schizophrenia
+mentalhealth_hes,F200,Paranoid schizophrenia
+mentalhealth_hes,F20,Schizophrenia
+mentalhealth_hes,F932,Social anxiety disorder of childhood
+mentalhealth_hes,F931,Phobic anxiety disorder of childhood
+mentalhealth_hes,F93,Emotional disorders with onset specific to childhood
+mentalhealth_hes,F92,Mixed disorders or conduct and emotions
+mentalhealth_hes,F919,Unsocialized conduct disorder
+mentalhealth_hes,F919,"Conduct disorder, unspecified"
+mentalhealth_hes,F918,Other conduct disorder
+mentalhealth_hes,F913,Oppositional defiant disorder
+mentalhealth_hes,F912,Socialised conduct disorder
+mentalhealth_hes,F910,Conduct disorder confined to the family context
+mentalhealth_hes,F91,Conduct disorder
+mentalhealth_hes,F90,Hyperkinetic disorders
+mentalhealth_hes,F62,"Enduring personality changes, not attributable to brain damage and disease"
+mentalhealth_hes,F600,Paranoid personality disorder
+mentalhealth_hes,F60,Specific personality disorders
+mentalhealth_hes,F54,Psychological and behavioural factors associated with disorders or diseases classified elsewhere
+mentalhealth_hes,F531,"Severe mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+mentalhealth_hes,F530,"Mild mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+mentalhealth_hes,F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+mentalhealth_hes,F519,"Nonorganic sleep disorder, unspecified"
+mentalhealth_hes,F518,Other nonorganic sleep disorders
+mentalhealth_hes,F516,NightmaresÂ  Â 
+mentalhealth_hes,F514,Sleep terrors
+mentalhealth_hes,F512,Nonorganic disorder of the sleep-wake schedule
+mentalhealth_hes,F511,Nonorganic hypersomnia
+mentalhealth_hes,F510,Nonorganic insomnia
+mentalhealth_hes,F51,Nonorganic sleep disorders
+mentalhealth_hes,F509,"Eating disorder, unspecified"
+mentalhealth_hes,F508,Other eating disorders
+mentalhealth_hes,F505,Vomiting associated with other psychological disturbances
+mentalhealth_hes,F504,Overeating associated with other psychological disturbances
+mentalhealth_hes,F503,Atypical bulimia nervosa
+mentalhealth_hes,F502,Bulimia nervosa
+mentalhealth_hes,F501,Atypical anorexia nervosa
+mentalhealth_hes,F500,Anorexia nervosa
+mentalhealth_hes,F50,Eating disorders
+mentalhealth_hes,F481,Depersonalization-derealization syndrome
+mentalhealth_hes,F459,"Somatoform disorder, unspecified"
+mentalhealth_hes,F454,Persistent somatoform pain disorder
+mentalhealth_hes,F453,Somatoform autonomic dysfunction
+mentalhealth_hes,F452,Hypochondriacal disorder
+mentalhealth_hes,F451,Undifferentiated somatoform disorder
+mentalhealth_hes,F450,Somatization disorder
+mentalhealth_hes,F45,Somatoform disorders
+mentalhealth_hes,F449,"Dissociative [conversion] disorder, unspecified"
+mentalhealth_hes,F448,Other dissociative [conversion] disorders
+mentalhealth_hes,F447,Mixed dissociative [conversion] disorders
+mentalhealth_hes,F446,Dissociative anaesthesia and sensory loss
+mentalhealth_hes,F445,Dissociative convulsions
+mentalhealth_hes,F444,Dissociative motor disorders
+mentalhealth_hes,F443,Trance and possession disorders
+mentalhealth_hes,F442,Dissociative stupor
+mentalhealth_hes,F441,Dissociative fugue
+mentalhealth_hes,F440,Dissociative amnesia
+mentalhealth_hes,F44,Dissociative [conversion] disorders
+mentalhealth_hes,F439,"Reaction to severe stress, unspecified"
+mentalhealth_hes,F438,Other reactions to severe stress
+mentalhealth_hes,F432,Adjustment disorders
+mentalhealth_hes,F431,Post-traumatic stress disorder
+mentalhealth_hes,F430,Acute stress reaction
+mentalhealth_hes,F43,"Reaction to severe stress, and adjustment disorders"
+mentalhealth_hes,F429,"Obsessive-compulsive disorder, unspecified"
+mentalhealth_hes,F428,Other obsessive-compulsive disorders
+mentalhealth_hes,F422,Mixed obsessional thoughts and acts
+mentalhealth_hes,F421,Predominantly compulsive acts [obsessional rituals]
+mentalhealth_hes,F420,Predominantly obsessional thoughts or ruminations
+mentalhealth_hes,F42,Obsessive-compulsive disorder
+mentalhealth_hes,F419,"Anxiety disorder, unspecified"
+mentalhealth_hes,F418,Other specified anxiety disorders
+mentalhealth_hes,F413,Other mixed anxiety disorders
+mentalhealth_hes,F412,Mixed anxiety and depressive disorder
+mentalhealth_hes,F411,Generalized anxiety disorder
+mentalhealth_hes,F410,Panic disorder [episodic paroxysmal anxiety]
+mentalhealth_hes,F41,Other anxiety disorders
+mentalhealth_hes,F409,Phobic anxiety disorder
+mentalhealth_hes,F408,Other phobic anxiety disorders
+mentalhealth_hes,F402,Specific (isolated) phobias
+mentalhealth_hes,F401,Social phobias
+mentalhealth_hes,F400,Agoraphobia
+mentalhealth_hes,F40,Phobic anxiety disorders
+mentalhealth_hes,F39,Unspecified mood [affective] disorder
+mentalhealth_hes,F388,Other specified mood [affective] disorders
+mentalhealth_hes,F381,Other recurrent mood [affective] disorders
+mentalhealth_hes,F380,Other single mood [affective] disorders
+mentalhealth_hes,F38,Other mood [affective] disorders
+mentalhealth_hes,F341,Dysthymia
+mentalhealth_hes,F340,Cyclothymia
+mentalhealth_hes,F34,Persistent mood [affective] disorders
+mentalhealth_hes,F339,"Recurrent depressive disorder, unspecified"
+mentalhealth_hes,F338,Other recurrent depressive disorders
+mentalhealth_hes,F334,"Recurrent depressive disorder, currently in remission"
+mentalhealth_hes,F333,"Recurrent depressive disorder, current episode severe with psychotic symptoms"
+mentalhealth_hes,F332,"Recurrent depressive disorder, current episode severe without psychotic symptoms"
+mentalhealth_hes,F331,"Recurrent depressive disorder, current episode moderate"
+mentalhealth_hes,F330,"Recurrent depressive disorder, current episode mild"
+mentalhealth_hes,F33,Recurrent depressive disorder
+mentalhealth_hes,F329,"Depressive episode, unspecified"
+mentalhealth_hes,F328,Other depressive episodes
+mentalhealth_hes,F323,Severe depressive episode with psychotic symptoms
+mentalhealth_hes,F322,Severe depressive episode without psychotic symptoms
+mentalhealth_hes,F321,Moderate depressive episode
+mentalhealth_hes,F320,Mild depressive episode
+mentalhealth_hes,F32,Depressive episode
+mentalhealth_hes,F319,"Bipolar affective disorder, unspecified"
+mentalhealth_hes,F318,Other bipolar affective disorders
+mentalhealth_hes,F317,"Bipolar affective disorder, currently in remission"
+mentalhealth_hes,F316,"Bipolar affective disorder, current episode mixed"
+mentalhealth_hes,F315,"Bipolar affective disorder, current episode severe depression with psychotic symptoms"
+mentalhealth_hes,F314,"Bipolar affective disorder, current episode severe depression without psychotic symptoms"
+mentalhealth_hes,F313,"Bipolar affective disorder, current episode mild or moderate depression"
+mentalhealth_hes,F312,"Bipolar affective disorder, current episode manic with psychotic symptoms"
+mentalhealth_hes,F311,"Bipolar affective disorder, current episode manic without psychotic symptoms"
+mentalhealth_hes,F310,"Bipolar affective disorder, current episode hypomanic"
+mentalhealth_hes,F31,Bipolar affective disorder
+mentalhealth_hes,F309,"Manic episode, unspecified"
+mentalhealth_hes,F308,Other manic episodes
+mentalhealth_hes,F302,Mania with psychotic symptoms
+mentalhealth_hes,F301,Mania without psychotic symptoms
+mentalhealth_hes,F300,Hypomania
+mentalhealth_hes,F30,Manic episode
+mentalhealth_hes,F29,Unspecified nonorganic psychosis
+mentalhealth_hes,F28,Other nonorganic psychotic disorders
+mentalhealth_hes,F259,"Schizoaffective disorder, unspecified"
+mentalhealth_hes,F258,Other schizoaffective disorders
+mentalhealth_hes,F252,"Schizoaffective disorder, mixed type"
+mentalhealth_hes,F251,"Schizoaffective disorder, depressive type"
+mentalhealth_hes,F250,"Schizoaffective disorder, manic type"
+mentalhealth_hes,F25,Schizoaffective disorders
+mentalhealth_hes,F24,Induced delusional disorder
+mentalhealth_hes,F239,"Acute and transient psychotic disorder, unspecified"
+mentalhealth_hes,F238,Other acute and transient psychotic disorders
+mentalhealth_hes,F233,Other acute predominantly delusional psychotic disorders
+mentalhealth_hes,F232,Acute schizophrenia-like psychotic disorder
+mentalhealth_hes,F231,Acute polymorphic psychotic disorder with symptoms of schizophrenia
+mentalhealth_hes,F230,Acute polymorphic psychotic disorder without symptoms of schizophrenia
+mentalhealth_hes,F23,Acute and transient psychotic disorders
+mentalhealth_hes,F229,"Persistent delusional disorder, unspecified"
+mentalhealth_hes,F228,Other persistent delusional disorders
+mentalhealth_hes,F220,Delusional disorder
+mentalhealth_hes,F22,Persistent delusional disorders
+mentalhealth_hes,F21,Schizotypal disorder
+mentalhealth_hes,F209,"Schizophrenia, unspecified"
+mentalhealth_hes,F208,Other schizophrenia
+mentalhealth_hes,F206,Simple schizophrenia
+mentalhealth_hes,F205,Residual schizophrenia
+mentalhealth_hes,F204,Post-schizophrenic depression
+mentalhealth_hes,F203,Undifferentiated schizophrenia
+mentalhealth_hes,F202,Catatonic schizophrenia
+mentalhealth_hes,F201,Hebephrenic schizophrenia
+mentalhealth_hes,F200,Paranoid schizophrenia
+mentalhealth_hes,F20,Schizophrenia
+cardiovascular_hes,I21,Acute myocardial infarction
+cardiovascular_hes,I21.0,Acute transmural myocardial infarction of anterior wall
+cardiovascular_hes,I21.1,Acute transmural myocardial infarction of inferior wall
+cardiovascular_hes,I21.2,Acute transmural myocardial infarction of other sites
+cardiovascular_hes,I21.3,Acute transmural myocardial infarction of unspecified site
+cardiovascular_hes,I21.4,Acute subendocardial myocardial infarction
+cardiovascular_hes,I21.9,"Acute myocardial infarction, unspecified"
+cardiovascular_hes,I22,Subsequent myocardial infarction
+cardiovascular_hes,I22.0,Subsequent myocardial infarction of anterior wall
+cardiovascular_hes,I22.1,Subsequent myocardial infarction of inferior wall
+cardiovascular_hes,I22.8,Subsequent myocardial infarction of other sites
+cardiovascular_hes,I22.9,Subsequent myocardial infarction of unspecified site
+cardiovascular_hes,I23,Certain current complication follow acute myocardial infarct
+cardiovascular_hes,I23.0,Haemopericardium as curr comp folow acut myocard infarct
+cardiovascular_hes,I23.1,Atral sept defect as curr comp folow acut myocardal infarct
+cardiovascular_hes,I23.2,Ventric sep defect as curr comp fol acut myocardal infarc
+cardiovascular_hes,I23.3,Rup cardac wal withou haemopercard as cur comp fol ac MI
+cardiovascular_hes,I23.4,Rup chordae tendinae as curr comp fol acut myocard infarct
+cardiovascular_hes,I23.5,Rup papilary muscle as curr comp fol acute myocard infarct
+cardiovascular_hes,I23.6,Thromb atrium/auric append/vent as curr comp foll acute MI
+cardiovascular_hes,I23.8,Oth current comp following acute myocardial infarction
+cardiovascular_hes,I20.0,Unstable angina
+cardiovascular_hes,G45.0,Vertebro-basilar artery syndrome
+cardiovascular_hes,G45.1,Carotid artery syndrome (hemispheric)
+cardiovascular_hes,G45.2,Multiple and bilateral precerebral artery syndromes
+cardiovascular_hes,G46,Vascular syndromes of brain in cerebrovascular diseases
+cardiovascular_hes,G46.0,Middle cerebral artery syndrome
+cardiovascular_hes,G46.1,Anterior cerebral artery syndrome
+cardiovascular_hes,G46.2,Posterior cerebral artery syndrome
+cardiovascular_hes,G46.3,Brain stem stroke syndrome
+cardiovascular_hes,G46.4,Cerebellar stroke syndrome
+cardiovascular_hes,G46.5,Pure motor lacunar syndrome
+cardiovascular_hes,G46.6,Pure sensory lacunar syndrome
+cardiovascular_hes,G46.7,Other lacunar syndromes
+cardiovascular_hes,G46.8,Oth vascular syndromes of brain in cerebrovascular dis
+cardiovascular_hes,I60,Subarachnoid haemorrhage
+cardiovascular_hes,I60.0,Subarachnoid haemorrhage from carotid siphon and bifurcation
+cardiovascular_hes,I60.1,Subarachnoid haemorrhage from middle cerebral artery
+cardiovascular_hes,I60.2,Subarachnoid haemorrhage from anterior communicating artery
+cardiovascular_hes,I60.3,Subarachnoid haemorrhage from posterior communicating artery
+cardiovascular_hes,I60.4,Subarachnoid haemorrhage from basilar artery
+cardiovascular_hes,I60.5,Subarachnoid haemorrhage from vertebral artery
+cardiovascular_hes,I60.6,Subarachnoid haemorrhage from other intracranial arteries
+cardiovascular_hes,I60.7,"Subarachnoid haemorrhage from intracranial artery, unspec"
+cardiovascular_hes,I60.8,Other subarachnoid haemorrhage
+cardiovascular_hes,I60.9,"Subarachnoid haemorrhage, unspecified"
+cardiovascular_hes,I61,Intracerebral haemorrhage
+cardiovascular_hes,I61.0,"Intracerebral haemorrhage in hemisphere, subcortical"
+cardiovascular_hes,I61.1,"Intracerebral haemorrhage in hemisphere, cortical"
+cardiovascular_hes,I61.2,"Intracerebral haemorrhage in hemisphere, unspecified"
+cardiovascular_hes,I61.3,Intracerebral haemorrhage in brain stem
+cardiovascular_hes,I61.4,Intracerebral haemorrhage in cerebellum
+cardiovascular_hes,I61.5,"Intracerebral haemorrhage, intraventricular"
+cardiovascular_hes,I61.6,"Intracerebral haemorrhage, multiple localized"
+cardiovascular_hes,I61.8,Other intracerebral haemorrhage
+cardiovascular_hes,I61.9,"Intracerebral haemorrhage, unspecified"
+cardiovascular_hes,I62,Other nontraumatic intracranial haemorrhage
+cardiovascular_hes,I62.0,Subdural haemorrhage (acute)(nontraumatic)
+cardiovascular_hes,I62.1,Nontraumatic extradural haemorrhage
+cardiovascular_hes,I62.9,"Intracranial haemorrhage (nontraumatic), unspecified"
+cardiovascular_hes,I63,Cerebral infarction
+cardiovascular_hes,I63.0,Cerebral infarct due to thrombosis of precerebral arteries
+cardiovascular_hes,I63.1,Cerebral infarction due to embolism of precerebral arteries
+cardiovascular_hes,I63.2,Cereb infarct due unsp occlusion or stenos precerebrl arts
+cardiovascular_hes,I63.3,Cerebral infarction due to thrombosis of cerebral arteries
+cardiovascular_hes,I63.4,Cerebral infarction due to embolism of cerebral arteries
+cardiovascular_hes,I63.5,Cerebrl infarct due unspec occlusion or stenos cerebrl arts
+cardiovascular_hes,I63.6,"Cereb infarct due cerebral venous thrombosis, nonpyogenic"
+cardiovascular_hes,I63.8,Other cerebral infarction
+cardiovascular_hes,I63.9,"Cerebral infarction, unspecified"
+cardiovascular_hes,I64,"Stroke, not specified as haemorrhage or infarction"
+cardiovascular_hes,I67.0,"Dissection of cerebral arteries, nonruptured"
+cardiovascular_hes,I67.1,"Cerebral aneurysm, nonruptured"
+cardiovascular_hes,I67.3,Progressive vascular leukoencephalopathy
+cardiovascular_hes,I67.4,Hypertensive encephalopathy
+cardiovascular_hes,I67.5,Moyamoya disease
+cardiovascular_hes,I67.6,Nonpyogenic thrombosis of intracranial venous system
+cardiovascular_hes,I67.7,"Cerebral arteritis, not elsewhere classified"
+cardiovascular_hes,I67.8,Other specified cerebrovascular diseases
+cardiovascular_hes,I67.9,"Cerebrovascular disease, unspecified"
+cardiovascular_hes,I68,Cerebrovascular disorders in diseases classified elsewhere
+cardiovascular_hes,I68.0,Cerebral amyloid angiopathy
+cardiovascular_hes,I68.1,Cerebral arteritis in infect & parasit dis classif elsewh
+cardiovascular_hes,I68.2,Cerebral arteritis in other diseases classified elsewhere
+cardiovascular_hes,I68.8,Other cerebrovascular disorders in diseases EC
+cardiovascular_hes,I69,Sequelae of cerebrovascular disease
+cardiovascular_hes,I69.0,Sequelae of subarachnoid haemorrhage
+cardiovascular_hes,I69.1,Sequelae of intracerebral haemorrhage
+cardiovascular_hes,I69.2,Sequelae of other nontraumatic intracranial haemorrhage
+cardiovascular_hes,I69.3,Sequelae of cerebral infarction
+cardiovascular_hes,I69.4,"Sequelae of stroke, not spec as haemorrhage or infarction"
+cardiovascular_hes,I69.8,Sequelae of other and unspecified cerebrovascular diseases
+cardiovascular_hes,I11.0,Hypertensive heart disease with (congestive) heart failure
+cardiovascular_hes,I13.0,Hypertens heart and renal dis with (conges) heart failure
+cardiovascular_hes,I13.2,Hyper heart and renal dis both (cong) heart and renal fail
+cardiovascular_hes,I50,Heart failure
+cardiovascular_hes,I50.0,Congestive heart failure
+cardiovascular_hes,I50.1,Left ventricular failure
+cardiovascular_hes,I50.9,"Heart failure, unspecified"
+cardiovascular_hes,I48.0 ,Paroxysmal atrial fibrillation
+cardiovascular_hes,I48.1 ,Persistent atrial fibrillation
+cardiovascular_hes,I48.2 ,Chronic atrial fibrillation
+cardiovascular_hes,I48.3,Typical atrial flutter
+cardiovascular_hes,I48.4 ,Atypical atrial flutter
+cardiovascular_hes,I48.9 ,Unspecified atrial fibrillation and atrial flutter
+cardiovascular_hes,I48.91,Unspecified atrial fibrillation
+cardiovascular_hes,I48.92 ,Unspecified atrial flutter
